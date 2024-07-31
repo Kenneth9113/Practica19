@@ -1,0 +1,17 @@
+.contenedor {
+  position: relative;
+  width: 50%; /* ajusta según tus necesidades */
+  height: 50%; /* ajusta según tus necesidades */
+}
+.tablero {
+  width: 100%;
+  height: auto;
+}
+.rojo {
+  position: absolute;
+  top: 0;
+  left: 8%;
+  /* Ajusta el tamaño según sea necesario */
+  width: 50px; /* ejemplo de tamaño */
+  height: auto;
+}
